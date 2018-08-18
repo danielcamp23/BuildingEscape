@@ -1,0 +1,13 @@
+#this is my gitignore file
+#UNREAL generated files
+*/Binaries
+*/Intermediate
+*/Build
+*/DerivedDataCache
+*/Saved
+*_BuildData.uasset
+Content/StarterContent
+
+
+#VS generated files
+*.db
